@@ -7,3 +7,6 @@ The Main API we decided to use to collect the data documentation https://develop
 
 We used the syntax to resize all the images from https://stackoverflow.com/questions/45276340/resize-multiple-images-in-a-folder-python
 canvas documentation: https://tkinter-docs.readthedocs.io/en/latest/widgets/canvas.html
+
+We got the syntax for making the CSV files that we displayed sortable from this article:
+https://www.w3resource.com/python-exercises/tkinter/python-tkinter-widgets-exercise-18.php
