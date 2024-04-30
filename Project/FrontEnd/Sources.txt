@@ -1,0 +1,12 @@
+I got the sytax for the menu from this youtbue video (https://www.youtube.com/watch?v=aODNQnc4Ebc&t=294s)
+I was able to figure out how to convert UTC Zolu to Est standard using the timedelta class that i found from the datetime module documentation from(https://docs.python.org/3/library/datetime.html)
+We used the Weather Api from class as a guide for the syntax use of our chose_game function as well as other functions from tkinter day 3 slides(https://docs.google.com/presentation/d/1xrfzsvJNn1QtpvOq0ZNSXHUkDFeHNZsxwsj23NaQT-k/edit#slide=id.g2c8bccf4c5d_0_517)
+Anything using the datetime Module was self tought from the datetime moudle documentation that we used. (https://docs.python.org/3/library/datetime.html)
+When it came to the Frames for the windows we used the example from class from Tkinter Day 5 (https://docs.google.com/presentation/u/1/d/1LKHPitaC-lxnbRixfcUvu86WCKUVS15ZQ0ySpox_gIk/edit?usp=sharing) and some of the syntax from Tkinter day 3 slides (https://docs.google.com/presentation/d/1xrfzsvJNn1QtpvOq0ZNSXHUkDFeHNZsxwsj23NaQT-k/edit#slide=id.g2c8bccf4c5d_0_517)
+The Main API we decided to use to collect the data documentation https://developer.sportradar.com/basketball/reference/nba-overview#play-in-tournament
+
+We used the syntax to resize all the images from https://stackoverflow.com/questions/45276340/resize-multiple-images-in-a-folder-python
+canvas documentation: https://tkinter-docs.readthedocs.io/en/latest/widgets/canvas.html
+
+We got the syntax for making the CSV files that we displayed sortable from this article:
+https://www.w3resource.com/python-exercises/tkinter/python-tkinter-widgets-exercise-18.php
